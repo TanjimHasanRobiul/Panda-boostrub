@@ -14,3 +14,9 @@
 .collaction img{
     width: 100px;
 }
+.rate{
+    color: lime;
+}
+.nav-link :hover{
+    background-color: #83e404a8;
+}
